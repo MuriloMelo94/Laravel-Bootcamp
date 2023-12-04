@@ -44,7 +44,7 @@ For JavaScript dependencies, run
   npm install
 ```
 
-For DataBase easy configuration, run
+For DataBase easy set with sqlite, run
 
 ```bash
   php artisan migrate
