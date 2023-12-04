@@ -26,7 +26,7 @@ Clone the project
   git clone git@github.com:MuriloMelo94/Laravel-Bootcamp.git
 ```
 
-Entre no diretório do projeto
+Change directory project
 
 ```bash
   cd Laravel-Bootcamp
@@ -65,7 +65,7 @@ And, finally, on another command line, run
 Voilá, you're ready to create your account and Chirp something great with the world. Be welcome :)
 
 
-## Autores
+## Author
 
 - [@murilomelodev](https://www.linkedin.com/in/murilomelodev/)
 
