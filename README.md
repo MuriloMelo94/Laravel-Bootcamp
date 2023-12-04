@@ -89,3 +89,7 @@ Improvement plan's to the project includes the avaibility to choose language, si
 
 
 ## Screenshots
+
+![CodeProgress](https://github.com/MuriloMelo94/Laravel-Bootcamp/assets/80219103/c4cb176e-ab28-4cb9-8a1b-25c2cb04c8ce)
+![Chirps View PT-BR](https://github.com/MuriloMelo94/Laravel-Bootcamp/assets/80219103/89efab26-2298-44ea-b4dc-4b93cbea3785)
+
