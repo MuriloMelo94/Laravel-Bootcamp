@@ -44,7 +44,7 @@ For JavaScript dependencies, run
   npm install
 ```
 
-For DataBase easy set with sqlite, run
+For DataBase easy set with sqlite, change the .ENV file (deleting all DB_* variable lines, only setting DB_CONNECTION as 'SQLITE'), then run
 
 ```bash
   php artisan migrate
@@ -63,6 +63,8 @@ And, finally, on another command line, run
 ```
 
 Voilá, you're ready to create your account and Chirp something great with the world. Be welcome :)
+
+** Note: if a message of Key Generate Error appears once you start your application, simple tap 'Generate Key' on the rigth superior corner.
 
 
 ## Author
